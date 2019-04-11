@@ -10,6 +10,8 @@
   </parent>
   <artifactId>tibconow.auto</artifactId>
   <packaging>bwmodule</packaging>
+    
+    <!--
   <dependencies>
    
     <dependency>
@@ -19,7 +21,7 @@
         <scope>provided</scope>
     </dependency>
       
-  </dependencies>
+  </dependencies> -->
   <build>
     <sourceDirectory>src</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
