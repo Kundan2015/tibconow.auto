@@ -20,6 +20,8 @@
         <version>6.1.100</version>
         <scope>provided</scope>
     </dependency> -->
+      
+       <!--
         <dependency>
             <groupId>fr.fastconnect.factory.tibco.bw.codereview</groupId>
             <artifactId>code-review-resources</artifactId>
@@ -28,6 +30,7 @@
             <classifier>display</classifier>
             <scope>test</scope>
         </dependency>
+     
         <dependency>
             <groupId>fr.fastconnect.factory.tibco.bw.codereview</groupId>
             <artifactId>code-review-rules-basic</artifactId>
@@ -35,7 +38,7 @@
             <type>zip</type>
             <classifier>bw</classifier>
             <scope>test</scope>
-        </dependency>
+        </dependency> -->
    </dependencies> 
   <build>
     <sourceDirectory>src</sourceDirectory>
